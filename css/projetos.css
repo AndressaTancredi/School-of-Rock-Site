@@ -1,0 +1,54 @@
+.navbar-brand {
+    font-size: 25px;
+}
+.navbar {
+    height: 70px;
+    font-size: 20px;
+}
+.card-img{
+    height: 1000px;
+    width: 1000;
+    float: left;
+    clear: both;
+}
+.card-titleTOP {
+    color: black;
+    font-size: 30px;
+    position: relative;
+    top: 100px;
+}
+.row1 {
+    float: left;
+}
+.row2 {
+    float: left;
+    clear: both;
+}
+.card {
+    font-size: 20px; 
+    margin: 30px 30px 30px 30px;
+    float: left;
+    clear: none;
+} 
+.cardPiano {
+    font-size: 20px;
+    margin: 10px 10px 10px 10px;
+    float: inline-end;
+    clear: both;
+}
+.card-text{
+    font-size: 15px;
+    text-align: justify;
+}
+.list-group {
+    font-size: 15px;
+}
+footer {
+    float: left;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    height: 30px;
+    width: 100%;
+    color: black;
+    background-color: rgb(230, 236, 236);
+}

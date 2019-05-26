@@ -1,0 +1,27 @@
+.navbar-brand {
+    font-size: 25px;
+}
+.navbar {
+    height: 70px;
+    font-size: 20px;
+}
+.card-title{
+    font-size: 25px;
+    padding: 20px;
+}
+.card {
+    width: 800px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+    border-radius: 10px;
+}
+footer {
+    float: left;
+    margin: auto;
+    height: 30px;
+    width: 100%;
+    color: black;
+    background-color: rgb(230, 236, 236);
+}

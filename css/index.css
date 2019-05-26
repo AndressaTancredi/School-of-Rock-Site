@@ -1,0 +1,65 @@
+.row{
+    text-align: justify;
+    border-radius: 20px;
+    width: 2400px;
+    padding: 20px;
+}
+.navbar-brand {
+    font-size: 25px;
+}
+.navbar {
+    height: 70px;
+    font-size: 20px;
+}
+body article {
+    text-align: center;
+}
+article {
+    margin: 10px
+}
+.img-fluid {
+    margin-bottom: 20px;
+}
+.chamada {
+    width: 600px;
+    height: 290px;
+    float: left;
+    padding: 10px; 
+    background-color:  rgb(230, 236, 236);
+    text-align: justify;
+    font-size: 30px;
+    margin: 50px;
+}
+.card-text {
+    font-size: 22px;
+}
+p {
+    font-size: 28px;
+}
+.card {
+    width: 585px;
+    padding: 10px; 
+    float: left;
+    align-items: center;
+}
+.card-deck{
+    float: right;
+    padding: 20px;
+    margin: 10px;
+}
+.blockquote-footer {
+    text-align: center;
+    width: 300px;
+    background-color: rgb(248, 250, 252);
+    margin-left: 90px;
+    justify-content: center;
+}
+footer {
+    float: left;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    height: 30px;
+    width: 100%;
+    color: black;
+    background-color: rgb(230, 236, 236);
+}
