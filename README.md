@@ -1,35 +1,34 @@
-# Projeto-School-of-Rock
+# School-of-Rock Project
 
-Link GitHub Pages: https://andressatancredi.github.io/Projeto-School-of-Rock/
+A project where I applied the knowledge acquired during the first week of the Reprograma Bootcamp. Using HTML | CSS | Bootstrap
 
-Projeto onde apliquei conhecimentos obtidos durante a primeira semana do Bootcamp na Reprograma.
-Utilizando HTML | CSS | Bootstrap
+[School of Rock Link](https://andressatancredi.github.io/Projeto-School-of-Rock/)
 
-Critérios exigidos pela professora:
-Objetivos:
-* O site deve ter um menu com os seguintes itens:
-  * Nome do site;
-  * Home (link apontando para index.html);
-  * Sobre (link);
-  * Projetos (link);
-  * Contato (link);
-* Cada link do menu deve levar a uma página;
-* Cada página deve ter conteúdo de acordo;
-* A **Home** deve ter:
-  * Uma área de destaque;
-  * Algum conteúdo textual;
-* **Sobre** deve conter:
-  * Uma foto de cada uma de vocês;
-  * Um texto descritivo sobre vocês;
-* **Projetos** deve conter:
-  * Uma lista dos seus projetos (pelo menos 5 itens):
-    * Cada item da lista deve ter uma imagem (pode ser a mesma imagem para todos os itens);
-    * O nome do projeto deve ser um link (não é obrigatório criar uma página para linkar, mas se decidir criar a página não deve estar em branco. Use '#' caso não queira criar uma página);
-    * Descrição do projeto (lorem ipsum);
-* **Contato** deve conter:
-  * Um formulário de contato com:
-    * Nome;
-    * E-mail;
-    * Mensagem;
-    * Botão de enviar.
-* Criar um rodapé, com direitos autorais
+Criteria required by the instructor:
+## Objectives:
+* The website must have a menu with the following items:
+  * Site name;
+  * Home (link pointing to index.html);
+  * About (link);
+  * Projects (link);
+  * Contact (link);
+* Each menu link must lead to a page;
+* Each page must have appropriate content;
+* **Home** should have:
+  * A highlight area;
+  * Some textual content;
+* **About** should include:
+  * A photo of each of you;
+  * A descriptive text about yourselves;
+* **Projects** should include:
+  * A list of your projects (at least 5 items):
+    * Each list item must have an image (it can be the same image for all items);
+    * The project name should be a link (it's not mandatory to create a linked page, but if you decide to create one, it should not be blank. Use '#' if you don't want to create a page);
+    * Project description (Lorem Ipsum);
+* **Contact** should include:
+  * A contact form with:
+    * Name;
+    * Email;
+    * Message;
+    * Send button.
+* Create a footer with copyright information.
